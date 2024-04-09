@@ -1,8 +1,7 @@
 # Python Codelab
 Beginner-Level Codelab für Datenstrukturen und Algorithmen.
 
-
-
+-=- Work in Progress -=-
 
 ## Dokumentation
 
@@ -19,6 +18,9 @@ Verzeichnis mit der Theorie zu den Implementierungen.
 
 
 ## Implementierungen
+
+Verzeichnisse zu den Code-Implementierungen der jeweiligen Algorithmen & Datenstrukturen.
+
 
 #### Datenstrukturen
 
@@ -39,8 +41,14 @@ Verzeichnis mit der Theorie zu den Implementierungen.
 ├── Adapter.py
 ├── Decorator.py
 ├── Factory.py
+├── Iterator.py
+├── Mediator.py
+├── Observer.py
+├── Prototype.py
+├── Proxy.py
 ├── Singleton.py
-└── Strategy.py
+├── Strategy.py
+└── Template.py
 ```
 
 #### Suchalgorithmen
@@ -64,4 +72,9 @@ Verzeichnis mit der Theorie zu den Implementierungen.
 ├── QuickSort.py
 └── SelectionSort.py
 ```
+
+## Testing
+
+Verzeichnis mit Dateien zum Testen und Verifizieren der Implementierungen.
+
 
